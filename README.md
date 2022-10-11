@@ -87,7 +87,7 @@ The complete list of features is available in the [features](folder here) folder
 
 ### Models
 
-The models created in the study are available in the [models](models/) folder. Each target has its own `pickle` file.
+The models created in the study are available in the [models](models/) folder. Each target has its own `pickle` file. Note that some files are too large for GitHub storage, and you have to unzip the `zip` files to use the models (defect, gc, lc, and sc).
 
 ### Notebooks
 
