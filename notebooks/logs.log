@@ -1,0 +1,4 @@
+2022-10-11 12:20:33,254:INFO:Initializing load_model()
+2022-10-11 12:20:33,255:INFO:load_model(model_name=../../models/gc, platform=None, authentication=None, verbose=True)
+2022-10-11 12:21:04,609:INFO:Initializing load_model()
+2022-10-11 12:21:04,609:INFO:load_model(model_name=../models/gc, platform=None, authentication=None, verbose=True)
