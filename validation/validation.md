@@ -14,6 +14,14 @@ These are the nine questions that we asked developers to validate the Organic to
 | Spaghetti Code  | Is the class difficult to maintain? For instance, are there many conditional branches in the code?      | Yes    |
 | Spaghetti Code  | Are most of the methods from this class interacting with other objects?                                 | No     |
 
+These are the options the developers could choose:
+
+| Option     | Reasoning                                                                           |
+|------------|-------------------------------------------------------------------------------------|
+| Yes        | If you are confident you can evaluate the class, and think the answer is yes.       |
+| No         | If you are confident you can evaluate the class, and think the answer is no.        |
+| Don't know | If you are not confident you can evaluate the class, and prefer not to answer.      |
+| NA         | If you cannot answer the question because the question does not apply to the class. |
 
 These questions were based on:
 
