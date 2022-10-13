@@ -113,5 +113,5 @@ Inside the [validation](validation/) folder, we have the results of the validati
 - [1] Brown, W.H., Malveau, R.C., McCormick, H.W.S., Mowbray, T.J.: AntiPatterns: refactoring software, architectures, and projects in crisis. John Wiley & Sons, Inc. (1998)
 - [2] Fowler, M.: Refactoring: Improving the Design of Existing Code. Addison-Wesley (1999)
 - [3] Riel, A.: Object Oriented Design Heuristics. Addison-Wesley Professional (1996)
-- [4] Santana, A., Cruz, D., Figueiredo, E.: An exploratory study on the identification and evaluation of bad smell agglomerations. In: Proceedings of the 36th Annual ACM Symposium on Applied Computing (2021)
+- [4] Shvets, A.: Dive into Design Patterns. Refactoring Guru (2021)
 
